@@ -3,6 +3,6 @@ def main():
     for i in range(0,100,1):
         for j in range(0,100,1):
             for k in range(0,100,1):
-                pass
+                _3d_list[i][j].append(0)
 if __name__ == "__main__":
     main()
